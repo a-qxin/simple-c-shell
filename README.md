@@ -1,8 +1,8 @@
 # simple-c-shell
 
-> Simple Linux shell in C that reads, parses, then executes simple shell commands.
+Simple Linux shell in C that reads, parses, then executes simple shell commands.
 
-> `fork()` creates new processes, `execvp()` executes commands.
+`fork()` creates new processes, `execvp()` executes commands.
 
 #### CLONE
 
